@@ -1,7 +1,7 @@
 import 'package:cookie_jar/cookie_jar.dart';
 import 'package:dio/dio.dart';
 import 'package:dio_cookie_manager/dio_cookie_manager.dart';
-import 'package:flutter_template/core/utils/path.dart';
+import 'package:pay/core/utils/path.dart';
 
 class XHttp {
   XHttp._internal();

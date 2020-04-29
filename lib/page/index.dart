@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/core/utils/click.dart';
-import 'package:flutter_template/core/utils/privacy.dart';
-import 'package:flutter_template/core/utils/toast.dart';
-import 'package:flutter_template/core/utils/xupdate.dart';
-import 'package:flutter_template/generated/i18n.dart';
-import 'package:flutter_template/page/home/tab_home.dart';
-import 'package:flutter_template/router/router.dart';
-import 'package:flutter_template/utils/provider.dart';
+import 'package:pay/core/utils/click.dart';
+import 'package:pay/core/utils/privacy.dart';
+import 'package:pay/core/utils/toast.dart';
+import 'package:pay/core/utils/xupdate.dart';
+import 'package:pay/generated/i18n.dart';
+import 'package:pay/page/home/tab_home.dart';
+import 'package:pay/router/router.dart';
+import 'package:pay/utils/provider.dart';
 import 'package:provider/provider.dart';
 
 import 'menu/menu_drawer.dart';

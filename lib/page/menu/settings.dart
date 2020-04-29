@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/generated/i18n.dart';
-import 'package:flutter_template/router/router.dart';
+import 'package:pay/generated/i18n.dart';
+import 'package:pay/router/router.dart';
 
 import 'language.dart';
 import 'theme_color.dart';

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:flutter_template/core/http/http.dart';
-import 'package:flutter_template/core/utils/toast.dart';
-import 'package:flutter_template/core/widget/loading_dialog.dart';
-import 'package:flutter_template/generated/i18n.dart';
+import 'package:pay/core/http/http.dart';
+import 'package:pay/core/utils/toast.dart';
+import 'package:pay/core/widget/loading_dialog.dart';
+import 'package:pay/generated/i18n.dart';
 
 class RegisterPage extends StatefulWidget {
   @override

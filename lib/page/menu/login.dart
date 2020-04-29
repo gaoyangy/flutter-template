@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:flutter_template/core/http/http.dart';
-import 'package:flutter_template/core/utils/privacy.dart';
-import 'package:flutter_template/core/utils/toast.dart';
-import 'package:flutter_template/core/widget/loading_dialog.dart';
-import 'package:flutter_template/generated/i18n.dart';
-import 'package:flutter_template/router/router.dart';
-import 'package:flutter_template/utils/provider.dart';
-import 'package:flutter_template/utils/sputils.dart';
+import 'package:pay/core/http/http.dart';
+import 'package:pay/core/utils/privacy.dart';
+import 'package:pay/core/utils/toast.dart';
+import 'package:pay/core/widget/loading_dialog.dart';
+import 'package:pay/generated/i18n.dart';
+import 'package:pay/router/router.dart';
+import 'package:pay/utils/provider.dart';
+import 'package:pay/utils/sputils.dart';
 import 'package:provider/provider.dart';
 
 class LoginPage extends StatefulWidget {

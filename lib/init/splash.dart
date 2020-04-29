@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/utils/sputils.dart';
+import 'package:pay/utils/sputils.dart';
 
 //类似广告启动页
 class SplashPage extends StatefulWidget {

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_easyrefresh/easy_refresh.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:flutter_template/core/http/http.dart';
-import 'package:flutter_template/core/utils/toast.dart';
-import 'package:flutter_template/generated/i18n.dart';
-import 'package:flutter_template/init/splash.dart';
-import 'package:flutter_template/router/route_map.dart';
-import 'package:flutter_template/router/router.dart';
-import 'package:flutter_template/utils/provider.dart';
-import 'package:flutter_template/utils/sputils.dart';
+import 'package:pay/core/http/http.dart';
+import 'package:pay/core/utils/toast.dart';
+import 'package:pay/generated/i18n.dart';
+import 'package:pay/init/splash.dart';
+import 'package:pay/router/route_map.dart';
+import 'package:pay/router/router.dart';
+import 'package:pay/utils/provider.dart';
+import 'package:pay/utils/sputils.dart';
 import 'package:provider/provider.dart';
 
 //默认App的启动

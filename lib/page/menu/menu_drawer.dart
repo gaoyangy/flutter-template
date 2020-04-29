@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/core/utils/toast.dart';
-import 'package:flutter_template/core/utils/xuifont.dart';
-import 'package:flutter_template/generated/i18n.dart';
-import 'package:flutter_template/router/router.dart';
-import 'package:flutter_template/utils/provider.dart';
+import 'package:pay/core/utils/toast.dart';
+import 'package:pay/core/utils/xuifont.dart';
+import 'package:pay/generated/i18n.dart';
+import 'package:pay/router/router.dart';
+import 'package:pay/utils/provider.dart';
 import 'package:provider/provider.dart';
 
 import 'about.dart';

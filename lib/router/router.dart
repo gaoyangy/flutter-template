@@ -1,6 +1,6 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_template/core/widget/web_view_page.dart';
+import 'package:pay/core/widget/web_view_page.dart';
 
 import 'switch_animation.dart';
 

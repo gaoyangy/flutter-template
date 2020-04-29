@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_template/core/utils/utils.dart';
-import 'package:flutter_template/core/utils/xupdate.dart';
-import 'package:flutter_template/core/widget/list/list_item.dart';
-import 'package:flutter_template/generated/i18n.dart';
+import 'package:pay/core/utils/utils.dart';
+import 'package:pay/core/utils/xupdate.dart';
+import 'package:pay/core/widget/list/list_item.dart';
+import 'package:pay/generated/i18n.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class AboutPage extends StatefulWidget {
