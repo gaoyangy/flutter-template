@@ -5,6 +5,7 @@ import 'package:flutter_template/page/menu/login.dart';
 import 'package:flutter_template/page/menu/register.dart';
 import 'package:flutter_template/page/menu/settings.dart';
 import 'package:flutter_template/page/menu/sponsor.dart';
+import 'package:flutter_template/page/home/images.dart';
 
 ///页面路由映射表
 class RouteMap {
@@ -17,8 +18,7 @@ class RouteMap {
     '/settings': (BuildContext context) => SettingsPage(),
     '/sponsor': (BuildContext context) => SponsorPage(),
     '/about': (BuildContext context) => AboutPage(),
-
-
+    '/images': (BuildContext context) => ImagePickerWidget(),
   };
 
 

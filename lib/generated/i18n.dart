@@ -82,6 +82,7 @@ class I18n implements WidgetsLocalizations {
   String get appupdate => "AppUpdate";
   /// "Sponsor"
   String get sponsor => "Sponsor";
+  String get images => "Images";
   /// "Your reward is the motivation for me to maintain. I will make a list of all reward staff on GitHub as a voucher."
   String get sponsorDescription => "Your reward is the motivation for me to maintain. I will make a list of all reward staff on GitHub as a voucher.";
   /// "Home"
@@ -213,6 +214,9 @@ class _I18n_zh_CN extends I18n {
   /// "赞助"
   @override
   String get sponsor => "赞助";
+  /// "照片"
+  @override
+  String get images => "照片";
   /// "你的打赏是我维护的动力，我将会列出所有打赏人员的清单在Github上作为凭证."
   @override
   String get sponsorDescription => "你的打赏是我维护的动力，我将会列出所有打赏人员的清单在Github上作为凭证.";

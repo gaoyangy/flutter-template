@@ -19,3 +19,7 @@ flutter packages get
 flutter clean
 flutter run
 ```
+
+# 奇葩问题
+·1. Lost connection to device.
+brew upgrade --fetch-HEAD usbmuxd

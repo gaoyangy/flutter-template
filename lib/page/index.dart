@@ -89,6 +89,17 @@ class _MainHomePageState extends State<MainHomePage> {
                             ),
                           ),
                           PopupMenuItem<String>(
+                            value: "images",
+                            child: ListTile(
+                              contentPadding:
+                                  EdgeInsets.symmetric(horizontal: 10),
+                              leading: Icon(
+                                Icons.attach_money,
+                              ),
+                              title: Text(I18n.of(context).images),
+                            ),
+                          ),
+                          PopupMenuItem<String>(
                             value: "settings",
                             child: ListTile(
                               contentPadding:
